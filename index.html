@@ -24,7 +24,7 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				include "slides/slides.html"
+
 				<section data-markdown="slides/introduction.md" data-separator="-#-" data-separator-vertical="-##-"></section>
 				<section>Slide 1</section>
 				<!--section>Slide 2</section-->
@@ -39,8 +39,9 @@
 			// - https://github.com/hakimel/reveal.js#configuration
 			// - https://github.com/hakimel/reveal.js#dependencies
 			Reveal.initialize({
-				controls: true,
-				slideNumber: true,
+				controls: false,
+				slideNumber: false,
+				history: true,
 				/*
 				parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
 				parallaxBackgroundHorizontal: 10,
