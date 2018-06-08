@@ -1,3 +1,4 @@
+
 # Documenter une API REST<!-- .element: class="fragment" -->
 
 -#-
@@ -25,5 +26,5 @@
 
 ### La solution
 
-OpenAPI v3<!-- .element: class="fragment grow" -->
+#### OpenAPI v3<!-- .element: class="fragment grow" -->
 
