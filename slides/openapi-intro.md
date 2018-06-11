@@ -7,3 +7,8 @@
 * **Swagger**<!-- .element: style="color: green" --> : implémentation
 * **OpenAPI 3**<!-- .element: style="color: green" --> : Version 3 des specs
 
+-##-
+
+## OpenAPI
+
+### Format

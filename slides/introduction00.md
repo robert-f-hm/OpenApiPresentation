@@ -1,6 +1,8 @@
+-##-
+
 ### Une API REST
 
-*C'est bien*<!-- .element: class="fragment" -->
+*C'est bien*
 
 -##-
 
