@@ -1,0 +1,26 @@
+.reveal .open-api-color {
+    color: #6D9900;
+}
+
+.reveal h2 {
+    text-transform: none;
+    font-weight: bold;
+    letter-spacing: .1em;
+    font-variant: small-caps;
+}
+
+.reveal .potential {
+    list-style-type: none;
+}
+
+.reveal .highlight {
+    color: crimson; 
+    font-weight: bold; 
+    text-shadow: 5px 5px 3px #00000044;
+}
+
+.reveal .highlight2 {
+    color: darkred; 
+    font-weight: bold; 
+    text-shadow: 5px 5px 3px #00000044;
+}
