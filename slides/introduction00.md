@@ -15,7 +15,7 @@
 *Pourquoi documenter une API ?*
 
 * Expliquer l'accès aux ressources<!-- .element class="fragment" -->
-* Presenter les paramètre des appels<!-- .element class="fragment" -->
+* Presenter les paramètres d'appels<!-- .element class="fragment" -->
 * Presenter les structures des ressources<!-- .element class="fragment" -->
 
 -##-
