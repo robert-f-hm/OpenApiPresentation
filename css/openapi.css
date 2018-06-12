@@ -24,3 +24,9 @@
     font-weight: bold; 
     text-shadow: 5px 5px 3px #00000044;
 }
+
+.reveal .image-simple {
+    border: none;
+    box-shadow: none;
+    background-color: rgba(0,0,0,0);
+}
