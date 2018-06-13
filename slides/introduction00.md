@@ -10,6 +10,14 @@
 
 *C'est bien mieux*
 
+-##-
+
+***APIs,***<!-- .element: class="highlight" style="font-size: 2em;" -->
+
+***like diamonds, ***<!-- .element: class="highlight" style="font-size: 2em;" -->
+
+***are forever ***<!-- .element: class="highlight" style="font-size: 2em;" -->
+
 -#-
 
 *Pourquoi documenter une API ?*
